@@ -15,5 +15,3 @@ Update the URI in .env file with your own.
 
 ## Example usage:
 
-
-
