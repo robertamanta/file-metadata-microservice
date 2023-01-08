@@ -17,4 +17,6 @@ Update the URI in .env file with your own.
 
 ![image](https://user-images.githubusercontent.com/116081834/211200669-f03f58a1-49a7-4310-a9d5-beb4dadf0861.png)
 
+JSON response:
+
 ![image](https://user-images.githubusercontent.com/116081834/211200838-79932dfe-e198-483b-bee3-c6c9184c715b.png)
